@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jahid65
+- 👋 Hi, I’m @weak69
 - I’m interested in learning new things
 - I’m trying to get in competative programming,but very weak in it.
 
