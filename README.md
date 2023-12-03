@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Sajib-177
-- 👀 I’m interested in learning new code
-- 🌱 I’m currently learning web fundamental html,css,javascript
-- 💞️ I’m looking to collaborate on web developmet related jobs
-- 📫 How to reach me jsajib560@gmail.com
+- 👋 Hi, I’m @Jahid65
+- I’m interested in learning new things
+- I’m trying to get in competative programming,but very weak in it.
 
 <!---
 Sajib-177/Sajib-177 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
